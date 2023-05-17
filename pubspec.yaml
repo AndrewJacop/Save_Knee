@@ -23,6 +23,8 @@ dependencies:
   url_launcher: ^6.1.10
   font_awesome_flutter: ^10.4.0
   flutter_screenutil: ^5.8.1
+  tflite: ^1.1.2
+  tflite_flutter: ^0.9.5
 
 
 dev_dependencies:
