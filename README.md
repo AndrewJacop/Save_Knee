@@ -1,7 +1,7 @@
 # Save Knee
 Save Knee is a Flutter application designed to assist patients suffering from knee osteoarthritis in managing their condition effectively. With a range of features tailored to support users in their journey towards better knee health, Save Knee offers a comprehensive solution for those seeking relief from knee pain and discomfort.
 
-![Finished App](https://github.com/AndrewJacop/Save_Knee/blob/main/Video.mp4)
+![Finished App](https://github.com/AndrewJacop/Save_Knee/blob/main/demo.gif)
 
 ## Features
 1. User Account System
